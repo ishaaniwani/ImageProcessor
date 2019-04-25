@@ -5,4 +5,4 @@ This project has produced a image processing program to explore JPG images in ne
 do to alter the image, such as mirroring the right side to the left, creating the opposite color version of the image, and even
 detect edges. 
 
-This was for a project for the Institute of Mathematics and Computer Science 
+This was for a project for the Institute of Mathematics and Computer Science.
